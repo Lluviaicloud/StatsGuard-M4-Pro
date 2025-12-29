@@ -6,3 +6,4 @@
 🛡️ **Nice 20 automático** | 📊 **Logs: ~/Library/Logs/statsguard.log** | ⚡ **sg-status | sg-watch**
 
 ## 📦 Instalación 1-Click:
+
