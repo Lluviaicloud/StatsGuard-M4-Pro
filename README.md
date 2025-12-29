@@ -7,3 +7,4 @@
 
 ## 📦 Instalación 1-Click:
 
+https://raw.githubusercontent.com/Lluviaicloud/StatsGuard-M4-Pro/main/install.sh
